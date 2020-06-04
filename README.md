@@ -1,5 +1,7 @@
 # Reducing the risk of Coronavirus transmission in faith based communities
 
+![](https://raw.githubusercontent.com/LucyMcGowan/harm-reduction-for-faith-based-communities/master/faith-based-community.png)
+
 The best way to offer services while keeping you and your community safe is to conduct them virtually. It is important to find creative ways to support your faith-based community during this difficult time. Some suggested ways to keep your community connected and supported remotely include facilitating online small group meetings, live streaming services, and/or hosting virtual one-on-one sessions with a religious leader. If services are held in person, outdoor services reduce the risk of transmission compared to those held indoors.[1–3] If services are held in person, whether indoors or outdoors, the risk of transmission can be reduced if members stay at least 6 feet apart from people they don’t live with.[4–6] Sharing of shared objects such as worship aids, prayer rugs, prayer books, hymnals, religious texts and other bulletins, books, or shared cups, should be avoided to reduce the risk of transmission. Singing should be avoided, as this makes it easier to spread SARS-CoV-2.[7] Any surfaces that will be touched by multiple members should be routinely cleaned using a cleaning agent suggested on the EPA list of disinfectants to use against SARS-CoV-2.[8]
 
 
